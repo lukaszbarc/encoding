@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EncodingApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EncodingApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EncodingApplication.class, args);
+    }
 }

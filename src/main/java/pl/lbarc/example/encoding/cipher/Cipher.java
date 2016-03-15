@@ -1,7 +1,5 @@
 package pl.lbarc.example.encoding.cipher;
 
-import org.springframework.stereotype.Component;
-
 /**
  * Created by lbarc on 2016-03-15.
  */
